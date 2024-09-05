@@ -65,5 +65,7 @@
 ![image](https://github.com/user-attachments/assets/dfa27ede-cd8f-402d-8a3e-73a7d2790b30)
 
 为了了解观众对不同角色的情感倾向，将弹幕内容与角色名字进行匹配，将提到该角色名字的弹幕情感得分均值化，得出观众对不同角色的情感倾向，
+
 ![image](https://github.com/user-attachments/assets/e412cfe1-d75f-4da5-8e7e-ae9b4206ecf9)
+
 观察上图，可以得出结论，在SnowNLP评价方法中，观众对宝钗，刘姥姥的情感最为正向积极，对于王熙凤的情感则接近中立，可能是好坏参半，这也对应了王熙凤聪明伶俐但却心狠手辣的性格特点。
